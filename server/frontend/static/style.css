@@ -124,3 +124,44 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+/* Contact Us */
+
+#contactus-card {
+    width: 80%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    box-shadow: 5px 6px 11px -8px black;
+    border-radius: 20px;
+}
+
+.img-top {
+    display: flex;
+    margin: 30px auto;
+}
+
+hr {
+    width: 80%;
+    margin: auto;
+    border: 0.5px solid;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hr {
+    margin: 30px 0;
+    border: 1.5px solid black;
+}
+
+.bottom-right {
+    text-align: center;
+}
+
+.address-box {
+    margin: auto;
+    text-align: center;
+}
